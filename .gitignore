@@ -12,3 +12,7 @@ __pycache__/
 # Kaggle data
 *.csv
 *.zip
+
+# Kaggle API key
+.kaggle/
+kaggle.json
